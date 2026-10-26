@@ -206,9 +206,9 @@
   "authorUrl": "https://github.com/DT-2017",
   "id": "dynamic-time-board-cn",
   "release": {
-    "version": "1.0.0",
-    "downloadUrl": "https://github.com/DT-2017/super-productivity-dynamic-time-board/releases/download/v1.0.0/SuperProductivity_DynamicTimeBoard_v1.0.0.zip",
-    "sha256": "ecb06db96351bd507d79b4047266719c66ce3ca0964377207b55b83be1d1c61d"
+    "version": "1.0.1",
+    "downloadUrl": "https://github.com/DT-2017/super-productivity-dynamic-time-board/releases/download/v1.0.1/SuperProductivity_DynamicTimeBoard_v1.0.1.zip",
+    "sha256": "77e41beb815184b544a8f52e4c9a60d2d969f9647c89506f6133c100afd256a0"
     }
   }
 ]
