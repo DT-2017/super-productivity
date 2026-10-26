@@ -197,5 +197,18 @@
       "downloadUrl": "https://github.com/SileboxUnderfined/SuperGile/releases/download/v0.1.1/supergile-0.1.1.zip",
       "sha256": "67ebf31649f745950f38da4f58f6bf43ed73e89fb43d5b1537ff626f78fbca76"
     }
+  },
+  {
+  "name": "Dynamic Time Board",
+  "shortDescription": "Automatically groups tasks by due date into Today, This Week, This Month and Future.",
+  "url": "https://github.com/DT-2017/super-productivity-dynamic-time-board",
+  "author": "DT-2017",
+  "authorUrl": "https://github.com/DT-2017",
+  "id": "dynamic-time-board-cn",
+  "release": {
+    "version": "1.0.0",
+    "downloadUrl": "https://github.com/DT-2017/super-productivity-dynamic-time-board/releases/download/v1.0.0/SuperProductivity_DynamicTimeBoard_v1.0.0.zip",
+    "sha256": "ecb06db96351bd507d79b4047266719c66ce3ca0964377207b55b83be1d1c61d"
+    }
   }
 ]
